@@ -1,7 +1,7 @@
 {
   "pages": [
     {
-      "image": "Cover A final (1).png",
+      "image": "assets/Cover A final (1).png",
       "panels": [
         {
           "type": "polygon",
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "image": "Pg 1.png",
+      "image": "assets/Pg 1.png",
       "panels": [
         {
           "type": "polygon",
